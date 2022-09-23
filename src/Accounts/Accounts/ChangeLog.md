@@ -19,6 +19,8 @@
 -->
 
 ## Upcoming Release
+
+## Version 2.11.0
 * Supported Web Account Manager (WAM) as the default interactive login experience.
 * Supported tenant domain as input while using `Connect-AzAccount` with parameter `Tenant`. [#19471]
 * Upgraded Azure.Identity to 1.6.1
